@@ -4,7 +4,7 @@
 
 azure-functions
 langchain==0.2.5
-langchain-community==0.2.5
+langchain-community==0.2.9
 langchain-core==0.2.9
 langchain-openai==0.1.9
 openai==1.35.3
